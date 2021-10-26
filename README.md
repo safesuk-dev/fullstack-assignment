@@ -15,8 +15,8 @@ A University user management system is a system to manage users in the universit
 ## Requirement
 
 **Frontend**
- 1. Web application allows admin to add users into the system.
- 2. Table to view list of users in the system.
+ 1. Web application allows admin to **add users** into the system.
+ 2. Table to **view list of users** in the system.
  3. Working integrated backend API for creating users and view users.
 
 **Backend**
@@ -24,15 +24,19 @@ A University user management system is a system to manage users in the universit
 2. Design your API in a RESTful way and respond with JSON.
 3. Write the code and design your system to be as realistic and production-ready as possible. Follow best practices and focus on quality.
 4. [OPTIONAL] Unit testing
-5. Make CRUD API from your database design. You should have at least 5 endpoints.
+5. Make CRUD API from your database design. You should have at least 3 endpoints.
+6. API Document
 
-Pack all your code in docker-compose file. Docker compose file should containe backend image, front image and db image. Describe your solution in a README and how to run it.
+
+Push all code to your public github repository and pack all your code in docker-compose file. Docker compose file should contain backend image, front image and db image. Describe your solution in a README and how to run it.
 
 
 **Guidelines**
 Please commit often and with good commit messages. This will allow us to see how you've approached the problem. Don't worry about changing things around often.
 
 Don’t hesitate to ask any questions if you’re uncertain about the task or anything else is unclear.
+
+For API document we suggest you to use library tool like swagger.
 
 kasiditp_pro@vistec.ac.th
 
