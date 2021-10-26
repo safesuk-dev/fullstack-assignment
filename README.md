@@ -34,3 +34,5 @@ Please commit often and with good commit messages. This will allow us to see how
 
 Don’t hesitate to ask any questions if you’re uncertain about the task or anything else is unclear.
 
+kasiditp_pro@vistec.ac.th
+
