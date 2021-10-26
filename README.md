@@ -10,6 +10,7 @@ The goal of this project is to assess development skills suitable for a full sta
 	 - ER diagram
 
 **Description:**
+
 A University user management system is a system to manage users in the university. In this university, users consist of 2 roles. First is the student role, students can enroll in courses. The second is teacher role, the teacher can assign grades to students in his/her course.
 
 ## Requirement
@@ -32,6 +33,7 @@ Push all code to your public github repository and pack all your code in docker-
 
 
 **Guidelines**
+
 Please commit often and with good commit messages. This will allow us to see how you've approached the problem. Don't worry about changing things around often.
 
 Don’t hesitate to ask any questions if you’re uncertain about the task or anything else is unclear.
