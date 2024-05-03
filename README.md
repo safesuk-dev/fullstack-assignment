@@ -3,7 +3,7 @@
 The goal of this project is to assess development skills suitable for a full stack developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST.
 
 
-- **Project Goal**:  Create a small web-app for add user and REST API for mangemnet courses.
+- **Project Goal**:  Create a small web-app for university course enrollment and REST API for mangemnet courses.
 - **Technology**: Pick any language, web framework and testing framework you like
 - **Deliverables**:
 	 - Docker compose file contain 3 images: 1. backend 2. frontend 3.database
